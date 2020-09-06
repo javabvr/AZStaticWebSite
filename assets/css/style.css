@@ -1,24 +1,18 @@
-/**
-* Template Name: Arsha - v2.2.0
-* Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: ;
 }
 
 a {
-  color: #47b2e4;
+  color: #4d0000;
 }
 
 a:hover {
-  color: #73c5eb;
+  color: #800000;
   text-decoration: none;
 }
 
@@ -37,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #37517e;
+  background: #800000;
 }
 
 #preloader:before {
@@ -45,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #37517e;
+  border: 6px solid #800000;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -92,13 +86,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 50px;
-  background: #47b2e4;
+  background: #800000;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #209dd8;
+  background: #4d0000;
   color: #fff;
 }
 
@@ -112,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(40, 58, 90, 0.9);
+  background: rgba(90, 20, 20, 0.9);
 }
 
 #header .logo {
@@ -165,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #47b2e4;
+  color: #1a0000;
 }
 
 .nav-menu .drop-down ul {
@@ -203,7 +197,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #47b2e4;
+  color: #800000;
 }
 
 .nav-menu .drop-down > a:after {
@@ -256,12 +250,12 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
-  border: 2px solid #47b2e4;
+  border: 2px solid #ffe6e6;
   font-weight: 600;
 }
 
 .get-started-btn:hover {
-  background: #31a9e1;
+  background: #4d0000;
   color: #fff;
 }
 
@@ -324,7 +318,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #47b2e4;
+  color: #1a0000;
   text-decoration: none;
 }
 
@@ -385,7 +379,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #37517e;
+  background: #800000;
 }
 
 #hero .container {
@@ -417,11 +411,11 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin: 10px 0 0 0;
   color: #fff;
-  background: #47b2e4;
+  background: #800000;
 }
 
 #hero .btn-get-started:hover {
-  background: #209dd8;
+  background: #4d0000;
 }
 
 #hero .btn-watch-video {
@@ -444,7 +438,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-watch-video:hover i {
-  color: #47b2e4;
+  color: #800000;
 }
 
 #hero .animated {
@@ -544,7 +538,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #37517e;
+  color: #4d0000;
 }
 
 .section-title h2::before {
@@ -564,7 +558,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #47b2e4;
+  background: #800000;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -629,7 +623,7 @@ section {
   left: 0;
   top: 2px;
   font-size: 20px;
-  color: #47b2e4;
+  color: #660000;
   line-height: 1;
 }
 
@@ -655,7 +649,7 @@ section {
 }
 
 .about .content .btn-learn-more:hover {
-  background: #47b2e4;
+  background: #800000;
   color: #fff;
   text-decoration: none;
 }
@@ -670,7 +664,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #37517e;
+  color: #4d0000;
 }
 
 .why-us .content h4 {
@@ -721,7 +715,7 @@ section {
 }
 
 .why-us .accordion-list span {
-  color: #47b2e4;
+  color: #4d0000;
   font-weight: 600;
   font-size: 18px;
   padding-right: 10px;
@@ -744,11 +738,11 @@ section {
 }
 
 .why-us .accordion-list a.collapsed {
-  color: #343a40;
+  color: #4d0000;
 }
 
 .why-us .accordion-list a.collapsed:hover {
-  color: #47b2e4;
+  color: #4d0000;
 }
 
 .why-us .accordion-list a.collapsed .icon-show {
@@ -790,7 +784,7 @@ section {
 .skills .content h3 {
   font-weight: 700;
   font-size: 32px;
-  color: #37517e;
+  color: #4d0000;
   font-family: "Poppins", sans-serif;
 }
 
@@ -806,7 +800,7 @@ section {
 .skills .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #47b2e4;
+  color: #4d0000;
 }
 
 .skills .content p:last-child {
@@ -826,7 +820,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #37517e;
+  color: #4d0000;
 }
 
 .skills .progress .skill .val {
@@ -842,7 +836,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #4668a2;
+  background-color: #4d0000;
 }
 
 /*--------------------------------------------------------------
@@ -860,7 +854,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #47b2e4;
+  color: #4d0000;
   font-size: 36px;
   transition: 0.3s;
 }
@@ -872,7 +866,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #37517e;
+  color: #4d0000;
   transition: ease-in-out 0.3s;
 }
 
@@ -887,14 +881,14 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color: #47b2e4;
+  color: #990000;
 }
 
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(90, 20, 30, 0.9), rgba(90, 20, 30, 0.9)), url("../img/cta-bg.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
@@ -924,8 +918,8 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #47b2e4;
-  border: 2px solid #47b2e4;
+  background: #800000;
+  border: 2px solid #800000;
 }
 
 @media (max-width: 1024px) {
@@ -957,7 +951,7 @@ section {
   font-size: 15px;
   font-weight: 500;
   line-height: 1;
-  color: #444444;
+  color: #800000;
   transition: all 0.3s;
   padding: 8px 20px;
   border-radius: 50px;
@@ -965,7 +959,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: #47b2e4;
+  background: #800000;
   color: #fff;
 }
 
@@ -1017,7 +1011,7 @@ section {
 }
 
 .portfolio .portfolio-item .portfolio-info .preview-link:hover, .portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #47b2e4;
+  color: #800000;
 }
 
 .portfolio .portfolio-item .portfolio-info .details-link {
@@ -1294,7 +1288,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #47b2e4;
+  color: #4d0000;
 }
 
 .faq .faq-list .icon-show, .faq .faq-list .icon-close {
@@ -1319,7 +1313,7 @@ section {
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #47b2e4;
+  color: #4d0000;
 }
 
 .faq .faq-list a.collapsed .icon-show {
@@ -1340,8 +1334,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
-  border-top: 3px solid #47b2e4;
-  border-bottom: 3px solid #47b2e4;
+  border-top: 3px solid #800000;
+  border-bottom: 3px solid #800000;
   padding: 30px;
   background: #fff;
   width: 100%;
@@ -1350,11 +1344,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #47b2e4;
+  color: #ffe6e6;
   float: left;
   width: 44px;
   height: 44px;
-  background: #e7f5fb;
+  background: #800000;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1367,14 +1361,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #37517e;
+  color: #4d0000;
 }
 
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #6182ba;
+ # color: #6182ba;
 }
 
 .contact .info .email p {
@@ -1401,12 +1395,12 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #47b2e4;
+  background: #800000;
   color: #fff;
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #47b2e4;
+  background: #800000;
   color: #fff;
 }
 
@@ -1481,7 +1475,7 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #47b2e4;
+  border-color: #800000;
 }
 
 .contact .php-email-form input {
@@ -1542,7 +1536,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 600;
-  color: #37517e;
+  color: #4d0000;
 }
 
 .breadcrumbs ol {
@@ -1561,7 +1555,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #4668a2;
+  color: #4d0000;
   content: "/";
 }
 
@@ -1657,7 +1651,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #37517e;
+  background: #800000;
 }
 
 #footer .footer-newsletter {
@@ -1665,7 +1659,7 @@ section {
   background: #f3f5fa;
   text-align: center;
   font-size: 15px;
-  color: #444444;
+  color: #800000;
 }
 
 #footer .footer-newsletter h4 {
@@ -1674,7 +1668,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #37517e;
+  color: #800000;
 }
 
 #footer .footer-newsletter form {
@@ -1702,7 +1696,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #47b2e4;
+  background: #800000;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1710,7 +1704,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #209dd8;
+  background: #4d0000;
 }
 
 #footer .footer-top {
@@ -1729,7 +1723,7 @@ section {
   line-height: 1;
   text-transform: uppercase;
   font-weight: 600;
-  color: #37517e;
+  color: #4d0000;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1743,7 +1737,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #37517e;
+  color: #4d0000;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1760,7 +1754,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #47b2e4;
+  color: #4d0000;
   font-size: 18px;
   line-height: 1;
 }
@@ -1784,13 +1778,13 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #47b2e4;
+  color: #4d0000;
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #47b2e4;
+  background: #800000;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1803,7 +1797,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
+  background: #4d0000;
   color: #fff;
   text-decoration: none;
 }
